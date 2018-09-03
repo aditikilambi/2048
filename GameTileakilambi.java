@@ -1,22 +1,14 @@
 /*
  * Name: Aditi Kilambi, cse8bfbq
- * Date: November 3rd, 2017
+ * Date: December 3rd, 2017
  * File: GameTileakilambi.java
  * Sources of Help: Piazza, Stack Overflow
  * 
- * Creates a GameTile class that creates the tiles for the 2048 game.
+ * Creates a custom GameTile class that creates the tiles for the
+ * 2048 game.
+ * Extends the GameTile class created by the instructors for this course.
  * 
  */
-
-
-//------------------------------------------------------------------//
-// GameTile.java                                                   //
-//                                                                  //
-// GameTile class that is in charge of creating tiles for 2048     //
-//                                                                  //
-// Author:  Abena Bonsu and Liz Izhikevich and YOU!                //
-// Date:    4/19/2017                                             //
-//------------------------------------------------------------------//
 
 
 //Imported some classes to resolve issue with Label

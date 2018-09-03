@@ -1,6 +1,6 @@
 /*
  * Name: Aditi Kilambi, cse8bfbq
- * Date: November 3rd, 2017
+ * Date: December 3rd, 2017
  * File: Board.java
  * Sources of Help: Piazza, Stack Overflow, Discussion Section
  * 

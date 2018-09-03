@@ -1,3 +1,7 @@
+
+
+/* Credit to startercode authors: */
+
 //------------------------------------------------------------------//
 // Direction.java                                                   //
 //                                                                  //
@@ -8,9 +12,7 @@
 // Date:    10/12/16                                                //
 //------------------------------------------------------------------//
 
-/**
- * DO NOT MODIFY THIS FILE
- */
+
 
 public enum Direction {
     // The Definitions for UP, DOWN, LEFT, and RIGHT

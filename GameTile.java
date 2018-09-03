@@ -1,3 +1,18 @@
+
+
+
+/* Credit to startercode authors: */
+
+//------------------------------------------------------------------//
+// GameTile.java                                                   //
+//                                                                  //
+// GameTile class that is in charge of creating tiles for 2048     //
+//                                                                  //
+// Author:  Abena Bonsu and Liz Izhikevich                         //
+// Date:    4/19/2017                                             //
+//------------------------------------------------------------------//
+
+
 import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;

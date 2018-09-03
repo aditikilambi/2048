@@ -1,7 +1,7 @@
 
 /*
  * Name: Aditi Kilambi, cse8bfbq
- * Date: November 3rd, 2017
+ * Date: December 3rd, 2017
  * File: Gui2048.java
  * Sources of Help: Piazza, Stack Overflow
  * 
@@ -9,7 +9,7 @@
  * 
  */
 
-/*
+/* Credit to startercode authors: 
  * @author Abena Bonsu, Liz Izhikevich and Christine Alvarado
  * @date April 18, 2017
  * File: Gui2048.java
